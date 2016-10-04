@@ -1,0 +1,53 @@
+{
+  "name": "Quick Boilerplate",
+  "description": "Web app with fancy controllers and stuff.",
+  "main": "app.js",
+  "authors": [
+    "Altin Selimi <altinselimi@msn.com>"
+  ],
+  "license": "BI",
+  "homepage": "",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/app/bower_components",
+    "test",
+    "tests"
+  ],
+  "directory": "./gulp/",
+  "dependencies": {
+    "angular-bootstrap": "~1.3.3",
+    "angular-animate": "~1.5.7",
+    "angular-dynamic-locale": "~0.1.29",
+    "angular-local-storage": "~0.2.3",
+    "angular-loader": "~1.5.7",
+    "angular-i18n": "~1.5.7",
+    "angular-keepr": "~0.0.1",
+    "angular-mocks": "~1.5.7",
+    "angular-route": "~1.5.7",
+    "angular-toastr": "~1.7.0",
+    "angular-sanitize": "~1.5.7",
+    "angular-translate-handler-log": "~2.11.0",
+    "angular-translate-loader-static-files": "~2.11.0",
+    "angular-translate": "2.11.0",
+    "angular-translate-storage-local": "~2.11.0",
+    "angular-ui-router": "~0.3.1",
+    "angular-ui-utils": "~3.0.0",
+    "angular": "~1.5.7",
+    "countries": "~1.1.0",
+    "lodash": "~4.8.2",
+    "jquery": "~2.2.4",
+    "requirejs": "~2.2.0",
+    "angular-messages": "^1.5.7",
+    "tether": "^1.3.2",
+    "entypo": "*",
+    "bootstrap": "v4.0.0-alpha.2",
+    "moment": "^2.14.1"
+  },
+  "resolutions": {
+    "angular": "~1.5.7"
+  }
+}
